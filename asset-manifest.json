@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blockdemy-challenge/static/css/main.073c9b0a.css",
+    "main.js": "/blockdemy-challenge/static/js/main.7c40a0c9.js",
+    "static/js/787.8842d348.chunk.js": "/blockdemy-challenge/static/js/787.8842d348.chunk.js",
+    "static/media/Rick_and_Morty.webp": "/blockdemy-challenge/static/media/Rick_and_Morty.613f05c8bea57caf3cb7.webp",
+    "index.html": "/blockdemy-challenge/index.html",
+    "main.073c9b0a.css.map": "/blockdemy-challenge/static/css/main.073c9b0a.css.map",
+    "main.7c40a0c9.js.map": "/blockdemy-challenge/static/js/main.7c40a0c9.js.map",
+    "787.8842d348.chunk.js.map": "/blockdemy-challenge/static/js/787.8842d348.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c40a0c9.js"
+  ]
+}
